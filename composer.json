@@ -1,0 +1,13 @@
+{
+    "name": "automad/mail",
+    "description": "This extension provides a basic wrapper for PHP's built-in mail function including basic human verification",
+    "type": "automad-package",
+    "keywords": ["extension"],
+    "license": "MIT",
+    "require": {
+        "automad/package-installer": "^1.1"
+    },
+    "autoload": {
+        "classmap": [""]
+    }
+}
