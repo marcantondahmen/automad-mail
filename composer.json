@@ -4,6 +4,12 @@
     "type": "automad-package",
     "keywords": ["extension"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Anton Dahmen",
+            "homepage": "https://marcdahmen.de"
+        }
+    ],
     "require": {
         "automad/package-installer": "^1.1"
     },
